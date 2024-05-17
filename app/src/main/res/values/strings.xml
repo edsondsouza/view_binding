@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">view_binding</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="register">Register</string>
+    <string name="checkbox">I agree to all T&amp;C</string>
+    <string name="welcome">Welcome</string>
+</resources>
